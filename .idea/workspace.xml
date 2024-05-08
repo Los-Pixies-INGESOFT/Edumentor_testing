@@ -10,10 +10,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kcerni"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Los-Pixies-INGESOFT/Edumentor_testing.git",
+    "accountId": "d36e344b-3de3-4ee4-a0a8-2142d355cecf"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gB9OEYjLihVLeHuD0CiUhpPQCr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sebas/PycharmProjects",
+    "last_opened_file_path": "C:/Users/sebas/PycharmProjects/Edumentor_AutoTesting",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715160071600</updated>
       <workItem from="1715160072862" duration="33000" />
+      <workItem from="1715199487654" duration="15000" />
     </task>
     <servers />
   </component>
